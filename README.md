@@ -2,16 +2,17 @@
 
 🎓 Master's in Computer Science @ Indiana University Bloomington
 💻 Backend Engineer | Cloud (Azure) | Distributed Systems
-🚀 Building scalable APIs + cloud-native infrastructure + AI-integrated systems
 
 ---
 
-## 🧠 What I'm Focused On
+## 🚀 About Me
 
-* ⚙️ Backend Engineering (Node.js, Express, PostgreSQL, Prisma)
-* ☁️ Cloud Infrastructure (Azure, Terraform, Networking, Monitoring)
-* 🔐 Distributed Identity & Trust Systems (DID/VC - TRAIL Protocol)
-* 🤖 Integrating LLMs into real-world backend systems
+I build **scalable backend systems and cloud infrastructure**, with a focus on:
+
+* ⚙️ API design & backend engineering (Node.js, PostgreSQL, Prisma)
+* ☁️ Cloud-native systems (Azure, Terraform, networking, monitoring)
+* 🔐 Secure and distributed systems (DID/VC - TRAIL Protocol)
+* 🤖 Practical LLM integrations in backend workflows
 
 ---
 
@@ -19,24 +20,23 @@
 
 ### 🚨 IncidentHub API
 
-> Scalable incident management backend with API-first design
+> Scalable incident management backend
 
 * Node.js + Express + Prisma + PostgreSQL
-* JWT Authentication + OpenAPI/Swagger Docs
-* Deployed on Render + Neon DB
-* ⚡ Currently integrating LLM-based incident summarization
+* JWT Authentication + OpenAPI/Swagger
+* Deployed on Render + Neon
+* ⚡ LLM-based incident summarization (in progress)
 
 🔗 https://github.com/AmeyParle/incidenthub-api
 
 ---
 
-### 📡 NotifyHub (Event-Driven Notifications)
+### 📡 NotifyHub
 
-> Microservice for async notifications
+> Event-driven notification microservice
 
-* Event-driven architecture
-* Queue-based processing
-* Pagination + scalable design
+* Queue-based async processing
+* Pagination + scalable API design
 
 🔗 https://github.com/AmeyParle/notifyhub-api
 
@@ -44,12 +44,11 @@
 
 ### ☁️ Azure Private Edge Gateway
 
-> Production-grade secure cloud architecture
+> Secure cloud architecture (production-style)
 
-* Hub-Spoke VNet architecture
-* Azure Application Gateway (WAF) as single entry point
-* VMSS (Nginx) with no public IP exposure
-* Azure Firewall + forced tunneling
+* Hub-Spoke VNet design
+* WAF (App Gateway) as single entry point
+* VMSS (no public IP) + Azure Firewall
 
 🔗 https://github.com/AmeyParle/private-edge-gateway
 
@@ -57,24 +56,23 @@
 
 ### 📊 Azure Monitoring Lab
 
-> Observability + alerting system
+> Observability + alerting
 
 * Azure Monitor + Log Analytics
 * CPU + availability alerts
-* Stress testing using stress-ng
-* GitHub Actions CI for Terraform
+* Stress testing + Terraform CI
 
 🔗 https://github.com/AmeyParle/azure-monitoring-lab
 
 ---
 
-## 🌍 Open Source Contributions
+## 🌍 Open Source
 
-### 🔗 TRAIL Protocol (Decentralized Identity & Trust)
+### 🔗 TRAIL Protocol
 
-* ✅ DID Validation Module
-* ✅ JavaScript DID Resolution + VC Verification examples
-* 🧠 Working on Trust Score design (anti-gaming, decay models, auditability)
+* Built DID validation module
+* Added JS DID resolution + VC verification examples
+* Working on trust score system (anti-gaming, decay, auditability)
 
 🔗 https://github.com/trailprotocol/trail-did-method
 
@@ -82,29 +80,22 @@
 
 ## 🛠️ Tech Stack
 
-**Backend:**
-Node.js | Express | Prisma | PostgreSQL
-
-**Cloud & DevOps:**
-Azure | Terraform | Docker | GitHub Actions
-
-**Monitoring & Infra:**
-Azure Monitor | Log Analytics | Networking | VMSS
-
-**Other:**
-Linux | Bash | REST APIs | OpenAPI
+**Backend:** Node.js, Express, Prisma, PostgreSQL
+**Cloud:** Azure, Terraform, Docker
+**Infra:** Networking, VMSS, Monitoring, WAF
+**Other:** Linux, Bash, REST APIs, OpenAPI
 
 ---
 
-## 📈 GitHub Stats
+## 🧪 Currently Working On
 
-![Amey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmeyParle\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyParle\&layout=compact\&theme=tokyonight)
+* LLM integration in IncidentHub
+* Trust score system (TRAIL Protocol)
+* Advanced Azure networking setups
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
 * LinkedIn: https://www.linkedin.com/in/amey-parle/
 * GitHub: https://github.com/AmeyParle
@@ -113,4 +104,4 @@ Linux | Bash | REST APIs | OpenAPI
 
 ## ⚡ Fun Fact
 
-I’m building systems that combine **cloud infrastructure + backend engineering + AI**, because that’s where the industry is heading.
+I focus on combining **backend + cloud + AI**, because modern systems require all three.
