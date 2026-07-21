@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Amey Parle
 
 🎓 Master's in Computer Science @ Indiana University Bloomington
-💻 Backend Engineer | Cloud (Azure) | Distributed Systems
+💻 Backend Engineer | AI Identity | Distributed Systems
 
 ---
 
