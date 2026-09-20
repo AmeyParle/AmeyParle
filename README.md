@@ -45,6 +45,11 @@ W3C-registered DID method for non-human and agent identity. I set technical dire
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmeyParle&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+
+---
 ### Stack
 
 **Languages** TypeScript · JavaScript · Python · SQL · Bash
