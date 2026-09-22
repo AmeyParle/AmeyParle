@@ -44,12 +44,6 @@ W3C-registered DID method for non-human and agent identity. I set technical dire
 **[private-edge-gateway](https://github.com/AmeyParle/private-edge-gateway)** — 21-resource hub-and-spoke Azure reference architecture. App Gateway/WAF v2, Azure Firewall, segmented VNets, NSGs, private VM Scale Set. Zero-trust ingress with zero public IPs, plus incident-recovery runbooks.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmeyParle&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
----
 ### Stack
 
 **Languages** TypeScript · JavaScript · Python · SQL · Bash
