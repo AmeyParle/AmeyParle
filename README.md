@@ -12,7 +12,7 @@ Looking for AI governance, model risk and data governance roles in the New York 
 
 A governance program for a fictional mid-size US bank, built against real regulation (SR 26-2, NIST AI RMF, ISO/IEC 42001, the EU AI Act, ECOA/Reg B) and real public data.
 
-**[AI Agent Governance Control Framework](harbor-federal/ai-agent-governance-framework.pdf)** (PDF) — 26 controls across six domains (inventory, identity and delegation, human oversight, testing, monitoring, incident response), scaled by risk tier. SR 26-2 puts agentic AI outside its scope, so banks have to build this governance themselves. Mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act, applied to a bank collections agent, and checked against two real incidents: the Replit production-database deletion and *Moffatt v. Air Canada*.
+**[AI Agent Governance Control Framework](https://github.com/AmeyParle/portfolio/blob/main/harbor-federal/AI%20Agent%20Governance%20Control%20Framework%20Harbor%20Federal%20Bank.pdf))** (PDF) — 26 controls across six domains (inventory, identity and delegation, human oversight, testing, monitoring, incident response), scaled by risk tier. SR 26-2 puts agentic AI outside its scope, so banks have to build this governance themselves. Mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act, applied to a bank collections agent, and checked against two real incidents: the Replit production-database deletion and *Moffatt v. Air Canada*.
 
 In progress, publishing by Oct 25: AI inventory and risk tiering for 10 banking use cases · fair-lending validation of a credit model (Python, Fairlearn) · data quality scorecard on public HMDA mortgage data.
 
